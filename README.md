@@ -73,7 +73,7 @@ The Power BI dashboard includes 3 pages:
 ```
 ├── EDA_Regional_Sales_Analysis.ipynb   # Full Python EDA notebook
 ├── PPT_Regional_Sales_Analysis.pptx    # Presentation with insights & recommendations
-├── README.md                           # Project overview (this file)
+├── README.md                           # Project overview
 ```
  
 ---
